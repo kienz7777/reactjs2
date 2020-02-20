@@ -1,0 +1,36 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ronaldo",
+        "tel" : "093334521",
+        "permission" : 1
+    }
+    ,
+    {
+        "id" : 2,
+        "name" : "Iron Man",
+        "tel" : "0335421654",
+        "permission" : 2
+    }
+    ,
+    {
+        "id" : 3,
+        "name" : "Captain",
+        "tel" : "016845156",
+        "permission" : 3
+    }
+    ,
+    {
+        "id" : 4,
+        "name" : "Iron man",
+        "tel" : "0987095421",
+        "permission" : 1
+    }
+    ,
+    {
+        "id" : 5,
+        "name" : "Art Man",
+        "tel" : "0922266542",
+        "permission" : 1
+    }
+]
